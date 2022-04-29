@@ -1,3 +1,3 @@
-#Notas sobre algoritmica 
+# Notas sobre algoritmica 
 
 Aqui comparto algunas notas sobre algoritmica
